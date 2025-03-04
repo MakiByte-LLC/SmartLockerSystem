@@ -18,7 +18,7 @@ Developed by **MakiByte LLC** 🏢 to demonstrate **object-oriented design (OOD)
 ### 1️⃣ Clone this repository
 ```sh
 git clone https://github.com/MakiByte-LLC/SmartLockerSystem.git
-cd SmartLockerSystem
+cd SmartLockerSystem```
 ### 2️⃣ Compile & Run
 If using IntelliJ IDEA:
 
@@ -28,7 +28,7 @@ Or using Command Line:
 
 javac -d bin src/main/java/com/maqi/lockersystem/Main.java
 java -cp bin com.maqi.lockersystem.Main
-##🎯 Example Usage
+## 🎯 Example Usage
 欢迎使用储物柜系统！可用操作：store, retrieve, exit
 
 请输入操作 (store/retrieve/exit): store
