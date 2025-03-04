@@ -5,31 +5,30 @@ Developed by **MakiByte LLC** 🏢 to demonstrate **object-oriented design (OOD)
 
 ---
 
-## 🌟 Features
-✅ **Smart Package Allocation** – Finds the best locker size for a package  
-✅ **Optimized Search** – Uses **TreeSet & HashMap** for fast lookups  
-✅ **Dynamic Package Management** – Store & retrieve packages interactively  
-✅ **Java-based Console Application** – Easy to use via command line  
+## 🔧 Installation & Usage
+
+### 🛠️ Clone this repository
+```sh
+git clone https://github.com/MakiByte-LLC/SmartLockerSystem.git
+cd SmartLockerSystem
+```
+
+### 🔹 Compile & Run
+
+#### **If using IntelliJ IDEA**:
+1. Open the project in IntelliJ  
+2. Run `Main.java`  
+
+#### **Or using Command Line**:
+```sh
+javac -d bin src/main/java/com/maqi/lockersystem/Main.java
+java -cp bin com.maqi.lockersystem.Main
+```
 
 ---
 
-## 🛠 Installation & Usage
-
-### 1️⃣ Clone this repository
-```sh
-git clone https://github.com/MakiByte-LLC/SmartLockerSystem.git
-cd SmartLockerSystem```
-### 1️⃣ Clone this repository
-### 2️⃣ Compile & Run
-If using IntelliJ IDEA:
-
-Open the project in IntelliJ
-Run Main.java
-Or using Command Line:
-
-javac -d bin src/main/java/com/maqi/lockersystem/Main.java
-java -cp bin com.maqi.lockersystem.Main
 ## 🎯 Example Usage
+```
 欢迎使用储物柜系统！可用操作：store, retrieve, exit
 
 请输入操作 (store/retrieve/exit): store
@@ -40,16 +39,29 @@ java -cp bin com.maqi.lockersystem.Main
 请输入操作 (store/retrieve/exit): retrieve
 输入要取出的包裹 ID: 101
 ✅ 取出包裹：101
-##👥 Contributors ✨
-Name	GitHub Profile
-Zeqi Li	@lizemaqi
-##🔮 Future Improvements
-🔹 Web Interface – Add a GUI/web-based interface
-🔹 Database Storage – Store package & locker data in MySQL/PostgreSQL
-🔹 AI Optimization – Smart locker assignment using machine learning
+```
 
-##📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+---
 
-##🚀 Developed by MakiByte LLC
-Innovating smart storage solutions, one line of code at a time.
+## 👥 Contributors ✨
+
+| Name      | GitHub Profile |
+|-----------|---------------|
+| **Zeqi Li** | [@lizemaqi](https://github.com/lizemaqi) |
+
+---
+
+## 🔮 Future Improvements
+- **Web Interface** – Add a GUI/web-based interface  
+- **Database Storage** – Store package & locker data in MySQL/PostgreSQL  
+- **AI Optimization** – Smart locker assignment using machine learning  
+
+---
+
+## 📜 License
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+---
+
+### 🚀 **Developed by [MakiByte LLC](https://github.com/MakiByte-LLC)**
+> *Innovating smart storage solutions, one line of code at a time.*  
