@@ -26,15 +26,9 @@ Open the project in IntelliJ
 Run Main.java
 Or using Command Line:
 
-sh
-Copy
-Edit
 javac -d bin src/main/java/com/maqi/lockersystem/Main.java
 java -cp bin com.maqi.lockersystem.Main
 🎯 Example Usage
-bash
-Copy
-Edit
 欢迎使用储物柜系统！可用操作：store, retrieve, exit
 
 请输入操作 (store/retrieve/exit): store
