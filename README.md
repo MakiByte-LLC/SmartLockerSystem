@@ -19,6 +19,7 @@ Developed by **MakiByte LLC** 🏢 to demonstrate **object-oriented design (OOD)
 ```sh
 git clone https://github.com/MakiByte-LLC/SmartLockerSystem.git
 cd SmartLockerSystem```
+### 1️⃣ Clone this repository
 ### 2️⃣ Compile & Run
 If using IntelliJ IDEA:
 
