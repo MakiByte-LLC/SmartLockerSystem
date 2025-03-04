@@ -19,7 +19,7 @@ Developed by **MakiByte LLC** 🏢 to demonstrate **object-oriented design (OOD)
 ```sh
 git clone https://github.com/MakiByte-LLC/SmartLockerSystem.git
 cd SmartLockerSystem
-2️⃣ Compile & Run
+### 2️⃣ Compile & Run
 If using IntelliJ IDEA:
 
 Open the project in IntelliJ
@@ -28,7 +28,7 @@ Or using Command Line:
 
 javac -d bin src/main/java/com/maqi/lockersystem/Main.java
 java -cp bin com.maqi.lockersystem.Main
-🎯 Example Usage
+##🎯 Example Usage
 欢迎使用储物柜系统！可用操作：store, retrieve, exit
 
 请输入操作 (store/retrieve/exit): store
@@ -39,16 +39,16 @@ java -cp bin com.maqi.lockersystem.Main
 请输入操作 (store/retrieve/exit): retrieve
 输入要取出的包裹 ID: 101
 ✅ 取出包裹：101
-👥 Contributors ✨
+##👥 Contributors ✨
 Name	GitHub Profile
 Zeqi Li	@lizemaqi
-🔮 Future Improvements
+##🔮 Future Improvements
 🔹 Web Interface – Add a GUI/web-based interface
 🔹 Database Storage – Store package & locker data in MySQL/PostgreSQL
 🔹 AI Optimization – Smart locker assignment using machine learning
 
-📜 License
+##📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-🚀 Developed by MakiByte LLC
+##🚀 Developed by MakiByte LLC
 Innovating smart storage solutions, one line of code at a time.
